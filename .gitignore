@@ -1,0 +1,22 @@
+# Visual Studio build artifacts
+x64/
+x86/
+Debug/
+Release/
+.vs/
+*.obj
+*.exe
+*.pdb
+*.idb
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.tlog/
+*.lastbuildstate
+*.iobj
+*.ipch
+
+# OS junk
+.DS_Store
+Thumbs.db
